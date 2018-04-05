@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">חדשות מינוס</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="link_btn">קרא עוד...</string>
+
+    <string name="dialog_title">טוען...</string>
+    <string name="dialog_message">הדף בטעינה אנא המתן</string>
+
+    <string name="head_bar_title">תפריט</string>
+    <string name="toolbar_title">חדשות מינוס</string>
+</resources>
